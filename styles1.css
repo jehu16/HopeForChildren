@@ -1,0 +1,18 @@
+body {
+	font-family: gill sans MT;
+}
+
+main {
+	padding-top: 97px;
+}
+
+.main-aboutus {
+	margin-bottom: 300px;
+}
+
+.img {
+	width: 300px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+}
